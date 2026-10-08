@@ -36,6 +36,6 @@
 ![Plages de dates](/TP1/Images/Plages-de-dates.png)
 
 ## Livre
-![Livre](/TP1/Images/Livre.png)
+![Livre](/TP1/Images/Livre.png) 
 
 Cline, E. (2012). *Ready Player One : A Novel*. BPS Blackwell. https://www.leslibraires.ca/livres/ready-player-one-9780307887443.html
